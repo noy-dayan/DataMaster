@@ -1,4 +1,6 @@
-![datamaster-logo](assets/loge_sideway.png)
+<p align='center'>
+  <img src= 'assets/loge_sideway.png'/>
+</p>
 
 DataMaster is a client-server software with a graphical user interface (GUI) that enables users to interact with a database. The client provides a user-friendly interface for adding, deleting, and retrieving information from tables and records. The server communicates with the database the database and processes user requests, returning the requested data to the clients.
 
